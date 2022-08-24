@@ -1,5 +1,8 @@
 denominations = [1, 2, 5, 10, 20, 50, 100, 500, 1000]
 
+# Greedy works because denomations are atleast 2 times greater than previous
+# Ex: [1,5,6,9] for amount of 9 doesn't give optimal solution with greedy as denomations are not twice of previous
+
 
 def findMinimumCoins(amount):
     
