@@ -14,9 +14,8 @@
 5. Graphs
 6. Heap
 7. DP
-8. LinkedList
-9. Stack
-10. Queue
-11. Trie
-12. Strings
-13. Arrays
+8. Trie 
+9. LinkedList 
+10. Stack 
+11. Queue
+12. Strings and Arrays
