@@ -19,13 +19,13 @@
 10. Stack 
 11. Queue
 12. Search
-  * Linear
-  * Binary
+    * Linear
+    * Binary
 13. Sort
-  * Selection
-  * Bubble
-  * Insertion
-  * Merge
-  * Quick
+    * Selection
+    * Bubble
+    * Insertion
+    * Merge
+    * Quick
 14. Strings 
 15. Arrays
