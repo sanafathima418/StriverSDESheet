@@ -11,8 +11,8 @@
 2. Recursion
 3. Backtracking
 4. Trees
-5. Heap
-6. Graphs
+5. Graphs
+6. Heap
 7. DP
 8. LinkedList
 9. Stack
