@@ -8,8 +8,22 @@
    * Find mimimum number of coins
    * Activity Selection
 
-2. Recursion
-3. Backtracking
+2. Recursion: 
+   * Subset Sums 1
+   * Subset Sums 2
+   * Combination Sum 1
+   * Combination Sum 2
+   * Palindrome Partitioning
+   * Kth Permutation Sequence
+   
+3. Backtracking:
+   * All Permutations of String
+   * N queens 
+   * Sudoku Solve
+   * M coloring 
+   * Rat in Maze
+   * Word Break
+   
 4. Trees
 5. Graphs
 6. Heap
