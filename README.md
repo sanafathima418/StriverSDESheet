@@ -24,10 +24,10 @@
    * Rat in Maze
    * Word Break
    
-4. Trees
-5. Graphs
-6. Heap
-7. DP
+4. DP 
+5. Trees 
+6. Graphs 
+7. Heap
 8. Trie 
 9. LinkedList 
 10. Stack 
