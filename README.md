@@ -18,5 +18,14 @@
 9. LinkedList 
 10. Stack 
 11. Queue
-12. Strings and Arrays
-13. Searching and Sorting
+12. Search
+  * Linear
+  * Binary
+13. Sort
+  * Selection
+  * Bubble
+  * Insertion
+  * Merge
+  * Quick
+14. Strings 
+15. Arrays
