@@ -1,4 +1,5 @@
-import numpy as np
+# Time Complexity: O(4^(N*M)) as for every cell 4 paths are taken
+# Space Complexity: O(N^2) + O(N^2)
 
 def ratInAMaze(maze, n):
     visited = [[0 for i in range(n)] for j in range(n)]
