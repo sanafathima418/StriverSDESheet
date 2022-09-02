@@ -27,10 +27,10 @@
 4. Tree / Graph Traversal
    * BFS Traversal - Undirected
    * DFS Traversal - Undirected
-   * Check cyclic - Undirected
+   * Check cyclic - Undirected (BFS, DFS)
    * BFS Traversal - Directed (same as Undirected just change adj list creation to include only edges provided)
    * DFS Traversal - Directed (same as Undirected just change adj list creation to include only edges provided)
-   * Check cyclic - Directed
+   * Check cyclic - Directed (BFS, DFS)
    * Topological Sorting - Directed
    
 5. DP 
