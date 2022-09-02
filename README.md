@@ -24,7 +24,7 @@
    * N queens - TO DO
    * Word Break - TO DO
    
-4. Trees 
+4. Tree / Graph Traversal
    * BFS Traversal - Undirected
    * DFS Traversal - Undirected
    * Check cyclic - Undirected
@@ -34,21 +34,22 @@
    * Topological Sorting
    
 5. DP 
-   
-6. Graphs 
-7. Heap
-8. Trie 
-9. LinkedList 
-10. Stack 
-11. Queue
-12. Search
+
+6. Trees
+7. Graphs 
+8. Heap
+9. Trie 
+10. LinkedList 
+11. Stack 
+12. Queue
+13. Search
     * Linear
     * Binary
-13. Sort
+14. Sort
     * Selection
     * Bubble
     * Insertion
     * Merge
     * Quick
-14. Strings 
-15. Arrays
+15. Strings 
+16. Arrays
