@@ -14,18 +14,27 @@
    * Combination Sum 1
    * Combination Sum 2
    * Palindrome Partitioning
-   * Kth Permutation Sequence
+   * Kth Permutation Sequence - TO DO
    
 3. Backtracking:
    * All Permutations of String
-   * N queens 
-   * Sudoku Solve
-   * M coloring 
    * Rat in Maze
-   * Word Break
+   * M coloring - TO DO
+   * Sudoku Solve - TO DO
+   * N queens - TO DO
+   * Word Break - TO DO
    
-4. DP 
-5. Trees 
+4. Trees 
+   * BFS Traversal - Undirected
+   * DFS Traversal - Undirected
+   * Check cyclic - Undirected
+   * BFS Traversal - Directed
+   * DFS Traversal - Directed
+   * Check cyclic - Directed
+   * Topological Sorting
+   
+5. DP 
+   
 6. Graphs 
 7. Heap
 8. Trie 
