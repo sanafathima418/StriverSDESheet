@@ -33,23 +33,95 @@
    * Check cyclic - Directed (BFS, DFS)
    * Topological Sorting - Directed (BFS, DFS)
    
-5. DP 
+5. DP
+   * Max Product Subarray
+   * Longest Increasing Subsequence
+   * Longest Common Subsequence
+   * 0-1 Knapsack
+   * Edit Distance
+   * Maximum sum increasing subsequence
+   * Matrix Chain Multiplication
+   * Minimum sum path in matrix
+   * Coin Change
+   * Subset Sum
+   * Rod Cutting
+   * Egg Dropping
+   * Word Break
+   * Palindrome Partioning
+   * Max Profit in Job Scheduling
 
-6. Trees
-7. Graphs 
+6. Trees (Binary Trees, BST)
+   * Inorder Traversal
+   * Preorder Traversal
+   * Postorder Traversal
+   * Left View of Binary Tree
+   * Bottom View of Binary Tree
+   * Top View of Binary Tree
+   * Level Order Traversal
+   * Max width of Binary Tree
+   * Height of Binary Tree
+   * Diameter of Binary tree
+   * LCA in Binary Tree
+   * Check if 2 trees are Identical
+   * Zig Zag Traversal of Binary Tree
+   * Boundary Traversal of Binary Tree
+   * Symmetric Binary Tree
+   * Check if Binary Tree is mirror of itself
+   
+   * Search key in BST
+   * Check if BT is BST
+   * Serialize and Deserialize BT
+   
+   * Distinct numbers in a window
+   * Kth largest element in Unsorted Array
+
+7. Graphs:
+   * Clone a graph
+   * Number of Islands
+   * Bipartite Check (BFS, DFS)
+   * Strongly Connected
+   * Dijkstra's Algorithm
+   * Bellman Ford Algorithm
+   * Floyd Warshall Algorithm
+   * MST using Prim's Algorithm
+   * MST using Kruskal's Algorithms
+   
 8. Heap
+   * Min Heap
+   * Max Heap
+   * kth largest element
+   * Maximum sum combination
+   * Find median from data stream
+   * Merge k sorted arrays
+   * k most frequent elements
+   
 9. Trie 
+   * Implement Trie 1
+   * Implement Trie 2
+   * Longest String with all prefixes
+   * Number of Distinct substrings in String
+   * **PowerSet**
+   * Maximum XOR of 2 nums in array
+   * Maximum XOR with 1 element in array
+   
 10. LinkedList 
-11. Stack 
+
+11. Stack
+    
 12. Queue
+
 13. Search
     * Linear
     * Binary
+    
 14. Sort
     * Selection
     * Bubble
     * Insertion
     * Merge
     * Quick
+    
 15. Strings 
+
 16. Arrays
+
