@@ -6,7 +6,7 @@ from collections import defaultdict
 
 def graphColoring(mat,m):
     
-    # 1. Create Adjacency List
+    # Create Adjacency List - To check colors possible in check_possible
     adj_list = defaultdict(list)
     for i in range(len(mat)):
         for j in range(len(mat[0])):
@@ -27,15 +27,20 @@ def graphColoring(mat,m):
         if node == len(mat):
             return True
         
-        # Traverse over colors
+        # 2. Traverse over colors
         for color in range(1,m+1):
             if check_possible(node,color):
+                # 3. Assign Color
                 color_array[node-1] = color
                 if backtrack(node+1):
+                    # 4. Check next node and propagate True if colors worked
                     return True
+                # 5. If colors didn't work, unassign
                 color_array[node-1] = 0    
+        # No back propagation from step 4 so not possible
         return False
-                    
+    
+    # Colors nodes with backtracking one by one (0-N and not as per adj_list) 
     if backtrack(0):
         return "YES"
     return "NO"
