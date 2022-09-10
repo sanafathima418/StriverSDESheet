@@ -19,7 +19,7 @@
 3. Backtracking:
    * All Permutations of String
    * Rat in Maze
-   * M coloring - TO DO
+   * M coloring 
    * Sudoku Solve - TO DO
    * N queens - TO DO
    * Word Break - TO DO
