@@ -1,21 +1,27 @@
 def isItSudoku(matrix):
     
-    # Approach: Traverse over colors to check if possible, if yes propagate True else check other options
-    # Time Complexity: O(N^M) for n nodes we check m possibilities
-    # Space Complexity: O(N) for color array + O(N) Auxiliary Space
+    # Approach: Traverse over whole board to check if possible to place digits 1-9, if yes propagate True else check other options
+    # Time Complexity: O(9^(N^2) for every cell on board we check for 9  possibilities
+    # Space Complexity: O(N) Auxiliary Space
     
     # Check if possible to place digit at row and column
     def check_possible(row,col,digit):
         for i in range(9):
+
+	    # Check row
             if matrix[i][col] == digit:
                 return False
-
+	    
+	    # Check column
             if matrix[row][i] == digit:
                 return False
-
+	    
+	    # Check sub-matrix
             if matrix[3 * (row // 3) + i // 3][3 * (col // 3) + i % 3] == digit:
                 return False
-        return True
+        
+	# If possible and not returned already, return True
+	return True
     
     # BackTrack
     def backtrack():
@@ -37,6 +43,6 @@ def isItSudoku(matrix):
                     return False       
         return True
     
-    # Colors nodes with backtracking one by one (0-N and not as per adj_list) 
+    # Fill empty cells with backtracking one by one as per traversal of matrix  
     if backtrack():
         return True
