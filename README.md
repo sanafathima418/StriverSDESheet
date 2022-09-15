@@ -20,9 +20,9 @@
    * All Permutations of String
    * Rat in Maze
    * M coloring 
-   * Sudoku Solve - TO DO
-   * N queens - TO DO
-   * Word Break - TO DO
+   * Sudoku Solve 
+   * N queens 
+   * Word Break 
    
 4. Tree / Graph Traversal
    * BFS Traversal - Undirected
