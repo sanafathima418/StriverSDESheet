@@ -33,7 +33,7 @@
    * Check cyclic - Directed (BFS, DFS)
    * Topological Sorting - Directed (BFS, DFS)
    
-5. DP
+5. DP --- TO DO
    * Max Product Subarray
    * Longest Increasing Subsequence
    * Longest Common Subsequence
@@ -62,7 +62,7 @@
    * Max width of Binary Tree
    * Height of Binary Tree
    * Diameter of Binary tree
-   * LCA in Binary Tree
+   * LCA in Binary Tree --- TO DO
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
    * Boundary Traversal of Binary Tree
