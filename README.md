@@ -55,6 +55,7 @@
    * Preorder Traversal
    * Postorder Traversal
    * Level Order Traversal
+   * Vertical Order Traversal
    * Left View of Binary Tree
    * Bottom View of Binary Tree
    * Top View of Binary Tree
