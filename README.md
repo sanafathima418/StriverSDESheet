@@ -14,7 +14,7 @@
    * Combination Sum 1
    * Combination Sum 2
    * Palindrome Partitioning
-   * Kth Permutation Sequence - TO DO
+   * Kth Permutation Sequence 
    
 3. Backtracking:
    * All Permutations of String
