@@ -6,6 +6,9 @@
 #         self.right = right
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        # Time Complexity: O(N)
+        # Space Complexity: O(N)
+        
         traversal = []
         
         def postorder(node):

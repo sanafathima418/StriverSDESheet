@@ -6,6 +6,8 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        # Time Complexity: O(N)
+        # Space Complexity: O(N)
         
         traversal = []
         

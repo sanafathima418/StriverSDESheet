@@ -18,9 +18,9 @@ class BinaryTreeNode:
 # ----------------------
 def getLevelOrder(root):
     
-    # Apporach: BFS traversal of Tree
-    # Time Complexity:
-    # Space Complexity:
+    # Approach: BFS traversal of Tree
+    # Time Complexity: O(N)
+    # Space Complexity: O(N)
     traversal = []
     queue = [root]
     
