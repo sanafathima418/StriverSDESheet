@@ -63,12 +63,12 @@
    * ---**Trees2**------------
    * Height of Binary Tree
    * Diameter of Binary tree
-   * Check Balanced Tree --- TO DO
+   * Check Balanced Tree 
    * LCA in Binary Tree 
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
    * Boundary Traversal of Binary Tree
-   * Maximum Path Sum
+   * Maximum Path Sum --- TO DO
    * Symmetric Binary Tree
    * Check if Binary Tree is mirror of itself
    * ----**Trees-Misc**----------
