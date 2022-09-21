@@ -62,7 +62,8 @@
    * Max width of Binary Tree
    * Height of Binary Tree
    * Diameter of Binary tree
-   * LCA in Binary Tree --- TO DO
+   * Check Balanced Tree --- TO DO
+   * LCA in Binary Tree 
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
    * Boundary Traversal of Binary Tree
