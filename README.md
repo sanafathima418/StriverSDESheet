@@ -60,6 +60,7 @@
    * Bottom View of Binary Tree
    * Top View of Binary Tree
    * Max width of Binary Tree
+   * ---Trees2------------
    * Height of Binary Tree
    * Diameter of Binary tree
    * Check Balanced Tree --- TO DO
@@ -70,13 +71,13 @@
    * Maximum Path Sum
    * Symmetric Binary Tree
    * Check if Binary Tree is mirror of itself
-   
+   * ----Trees-Misc----------
+   * Distinct numbers in a window
+   * Kth largest element in Unsorted Array
+   * ----Binary Search Trees----
    * Search key in BST
    * Check if BT is BST
    * Serialize and Deserialize BT
-   
-   * Distinct numbers in a window
-   * Kth largest element in Unsorted Array
 
 7. Graphs:
    * Clone a graph
