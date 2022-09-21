@@ -67,6 +67,7 @@
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
    * Boundary Traversal of Binary Tree
+   * Maximum Path Sum
    * Symmetric Binary Tree
    * Check if Binary Tree is mirror of itself
    
