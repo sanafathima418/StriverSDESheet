@@ -59,8 +59,8 @@
    * Left View of Binary Tree
    * Bottom View of Binary Tree
    * Top View of Binary Tree
-   * Max width of Binary Tree
-   * ---**Trees2**------------
+   * Max width of Binary Tree<br/><br/>
+   **Trees2**
    * Height of Binary Tree
    * Diameter of Binary tree
    * Check Balanced Tree 
@@ -69,16 +69,17 @@
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
    * Boundary Traversal of Binary Tree
-   * Maximum Path Sum --- TO DO
+   * Maximum Width of Binary Tree --- TO DO
+   * Maximum Path Sum 
    * Symmetric Binary Tree
-   * Check if Binary Tree is mirror of itself
-   * ----**Trees-Misc**----------
-   * Distinct numbers in a window
-   * Kth largest element in Unsorted Array
-   * ----**Binary Search Trees**----
+   * Check if Binary Tree is mirror of itself<br/><br/>
+   **Binary Search Trees**
    * Search key in BST
    * Check if BT is BST
-   * Serialize and Deserialize BT
+   * Serialize and Deserialize BT<br/><br/>
+   **Trees-Misc**
+   * Distinct numbers in a window
+   * Kth largest element in Unsorted Array
 
 7. Graphs:
    * Clone a graph
