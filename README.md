@@ -64,6 +64,7 @@
    * Height of Binary Tree
    * Diameter of Binary tree
    * Check Balanced Tree 
+   * Root to Node Path
    * LCA in Binary Tree 
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
