@@ -69,10 +69,10 @@
    * Check if 2 trees are Identical
    * Zig Zag Traversal of Binary Tree
    * Boundary Traversal of Binary Tree
-   * Maximum Width of Binary Tree --- TO DO
-   * Maximum Path Sum 
    * Symmetric Binary Tree
-   * Invert/Mirror Binary Tree<br/><br/>
+   * Invert/Mirror Binary Tree
+   * Maximum Width of Binary Tree --- TO DO
+   * Maximum Path Sum <br/><br/>
    **Binary Search Trees**
    * Search key in BST
    * Check if BT is BST
