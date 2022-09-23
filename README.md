@@ -72,7 +72,7 @@
    * Maximum Width of Binary Tree --- TO DO
    * Maximum Path Sum 
    * Symmetric Binary Tree
-   * Check if Binary Tree is mirror of itself<br/><br/>
+   * Invert/Mirror Binary Tree<br/><br/>
    **Binary Search Trees**
    * Search key in BST
    * Check if BT is BST
