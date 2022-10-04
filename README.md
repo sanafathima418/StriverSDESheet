@@ -71,10 +71,10 @@
    * Boundary Traversal of Binary Tree
    * Symmetric Binary Tree
    * Invert/Mirror Binary Tree
-   * Maximum Width of Binary Tree --- TO DO
+   * Maximum Width of Binary Tree 
    * Maximum Path Sum <br/><br/>
-   **Binary Search Trees**
-   * Search key in BST
+   **Binary Search Trees** 
+   * Search key in BST. --- TO DO
    * Check if BT is BST
    * Serialize and Deserialize BT<br/><br/>
    **Trees-Misc**
