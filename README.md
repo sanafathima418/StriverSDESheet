@@ -74,7 +74,7 @@
    * Maximum Width of Binary Tree 
    * Maximum Path Sum <br/><br/>
    **Binary Search Trees** 
-   * Search key in BST. --- TO DO
+   * Search key in BST --- TO DO
    * Check if BT is BST
    * Serialize and Deserialize BT<br/><br/>
    **Trees-Misc**
