@@ -7,7 +7,7 @@ from math import *
   ----Binary tree node class for reference-----
     class TreeNode:
         def __init__(self, data):
-            self.val = data
+            self.data = data
             self.left = None
             self.right = None
 
