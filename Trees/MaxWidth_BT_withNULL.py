@@ -15,7 +15,7 @@ class Solution:
                 # For current level nodes calculate width and compare with max width
                 first = queue[0][1]
                 last = queue[-1][1]
-                curr_level_len = (last - first) + 1
+                curr_level_len = (last - first) + 1  # +1 as we index nodes from 0
                 max_width = max(max_width,curr_level_len)
                 
                 # Level Order Traversal 
