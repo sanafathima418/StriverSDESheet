@@ -3,6 +3,9 @@ from sys import *
 from collections import *
 from math import *
 
+# Time Complexity: All heap operations in O(log n), For processing the question, O(q) where q is number of queries
+# Space Complexity: O(N) for heap array + O(N) for return list
+
 def minHeap(N: int, Q: [[]]) -> []:
     heap = []
     return_list = []
