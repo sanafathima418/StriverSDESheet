@@ -79,15 +79,15 @@
 9. Queue and Priority Queues:
 
 10. Graphs:
-   * Clone a graph
-   * Number of Islands
-   * Bipartite Check (BFS, DFS)
-   * Strongly Connected
-   * Dijkstra's Algorithm
-   * Bellman Ford Algorithm
-   * Floyd Warshall Algorithm
-   * MST using Prim's Algorithm
-   * MST using Kruskal's Algorithms
+     * Clone a graph
+     * Number of Islands
+     * Bipartite Check (BFS, DFS)
+     * Strongly Connected
+     * Dijkstra's Algorithm
+     * Bellman Ford Algorithm
+     * Floyd Warshall Algorithm
+     * MST using Prim's Algorithm
+     * MST using Kruskal's Algorithms
 
 11. Strings:
 
@@ -96,38 +96,38 @@
 13. LinkedList:
 
 14. DP 
-   * Max Product Subarray
-   * Longest Increasing Subsequence
-   * Longest Common Subsequence
-   * 0-1 Knapsack
-   * Edit Distance
-   * Maximum sum increasing subsequence
-   * Matrix Chain Multiplication
-   * Minimum sum path in matrix
-   * Coin Change
-   * Subset Sum
-   * Rod Cutting
-   * Egg Dropping
-   * Word Break
-   * Palindrome Partioning
-   * Max Profit in Job Scheduling
+     * Max Product Subarray
+     * Longest Increasing Subsequence
+     * Longest Common Subsequence
+     * 0-1 Knapsack
+     * Edit Distance
+     * Maximum sum increasing subsequence
+     * Matrix Chain Multiplication
+     * Minimum sum path in matrix
+     * Coin Change
+     * Subset Sum
+     * Rod Cutting
+     * Egg Dropping
+     * Word Break
+     * Palindrome Partioning
+     * Max Profit in Job Scheduling
    
 15. Trie 
-   * Implement Trie 1
-   * Implement Trie 2
-   * Longest String with all prefixes
-   * Number of Distinct substrings in String
-   * **PowerSet**
-   * Maximum XOR of 2 nums in array
-   * Maximum XOR with 1 element in array
+     * Implement Trie 1
+     * Implement Trie 2
+     * Longest String with all prefixes
+     * Number of Distinct substrings in String
+     * **PowerSet**
+     * Maximum XOR of 2 nums in array
+     * Maximum XOR with 1 element in array
 
 16. Search
-    * Linear
-    * Binary
+     * Linear
+     * Binary
     
 17. Sort
-    * Selection
-    * Bubble
-    * Insertion
-    * Merge
-    * Quick
+     * Selection
+     * Bubble
+     * Insertion
+     * Merge
+     * Quick
