@@ -74,9 +74,9 @@
    * k most frequent elements
    * Heap Sort
 
-8. Stack
+8. Stacks:
     
-9. Queue
+9. Queue and Priority Queues:
 
 10. Graphs:
    * Clone a graph
@@ -89,11 +89,11 @@
    * MST using Prim's Algorithm
    * MST using Kruskal's Algorithms
 
-11. Strings 
+11. Strings:
 
-12. Arrays
+12. Arrays:
 
-13. LinkedList 
+13. LinkedList:
 
 14. DP 
    * Max Product Subarray
