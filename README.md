@@ -32,23 +32,6 @@
    * DFS Traversal - Directed (same as Undirected just change adj list creation to include the only edge as provided)
    * Check cyclic - Directed (BFS, DFS)
    * Topological Sorting - Directed (BFS, DFS)
-   
-5. DP --- TO DO
-   * Max Product Subarray
-   * Longest Increasing Subsequence
-   * Longest Common Subsequence
-   * 0-1 Knapsack
-   * Edit Distance
-   * Maximum sum increasing subsequence
-   * Matrix Chain Multiplication
-   * Minimum sum path in matrix
-   * Coin Change
-   * Subset Sum
-   * Rod Cutting
-   * Egg Dropping
-   * Word Break
-   * Palindrome Partioning
-   * Max Profit in Job Scheduling
 
 6. Trees (Binary Trees, BST)
    * Inorder Traversal
@@ -80,8 +63,22 @@
    **Trees-Misc**
    * Distinct numbers in a window
    * Kth largest element in Unsorted Array
+   
+7. Heap
+   * Min Heap
+   * Max Heap
+   * kth largest element
+   * Maximum sum combination
+   * Find median from data stream
+   * Merge k sorted arrays
+   * k most frequent elements
+   * Heap Sort
 
-7. Graphs:
+8. Stack
+    
+9. Queue
+
+10. Graphs:
    * Clone a graph
    * Number of Islands
    * Bipartite Check (BFS, DFS)
@@ -91,17 +88,31 @@
    * Floyd Warshall Algorithm
    * MST using Prim's Algorithm
    * MST using Kruskal's Algorithms
+
+11. Strings 
+
+12. Arrays
+
+13. LinkedList 
+
+14. DP 
+   * Max Product Subarray
+   * Longest Increasing Subsequence
+   * Longest Common Subsequence
+   * 0-1 Knapsack
+   * Edit Distance
+   * Maximum sum increasing subsequence
+   * Matrix Chain Multiplication
+   * Minimum sum path in matrix
+   * Coin Change
+   * Subset Sum
+   * Rod Cutting
+   * Egg Dropping
+   * Word Break
+   * Palindrome Partioning
+   * Max Profit in Job Scheduling
    
-8. Heap
-   * Min Heap
-   * Max Heap
-   * kth largest element
-   * Maximum sum combination
-   * Find median from data stream
-   * Merge k sorted arrays
-   * k most frequent elements
-   
-9. Trie 
+15. Trie 
    * Implement Trie 1
    * Implement Trie 2
    * Longest String with all prefixes
@@ -109,25 +120,14 @@
    * **PowerSet**
    * Maximum XOR of 2 nums in array
    * Maximum XOR with 1 element in array
-   
-10. LinkedList 
 
-11. Stack
-    
-12. Queue
-
-13. Search
+16. Search
     * Linear
     * Binary
     
-14. Sort
+17. Sort
     * Selection
     * Bubble
     * Insertion
     * Merge
     * Quick
-    
-15. Strings 
-
-16. Arrays
-
