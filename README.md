@@ -64,19 +64,32 @@
    * Distinct numbers in a window
    * Kth largest element in Unsorted Array
    
-7. Heap
+7. Heap and Priority Queues (study v/s)
    * Min Heap
    * Max Heap
    * kth largest element
    * Maximum sum combination
    * Find median from data stream
    * Merge k sorted arrays
-   * k most frequent elements
+   * k most frequent elements 
    * Heap Sort
 
-8. Stacks:
+8. Stacks and Monotonic Stack(MS):
+    * Queue using Stack
+    * Next greater element 2 (MS)
+    * Sort a stack
+    * LRU Cache
+    * LFU Cache
+    * Largest Rectangle in Histogram
+    * Min Stack
+    * Online Stock Span
+    * Maximum of minimum for every window size
+    * The Celebrity Problem
     
-9. Queue and Priority Queues:
+9. Queues and Monotonic Queues(MQ):
+    * Stack using Queues
+    * Sliding window Maximum (MQ)
+    * Rotting Oranges
 
 10. Graphs:
      * Clone a graph
