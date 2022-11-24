@@ -83,7 +83,6 @@
     * LRU Cache
     * LFU Cache
     * Min Stack
-    * Maximum of minimum for every window size
     * The Celebrity Problem
     
 9. Queues and Monotonic Queues(MQ):
