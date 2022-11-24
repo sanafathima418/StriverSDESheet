@@ -100,14 +100,8 @@
      * Floyd Warshall Algorithm
      * MST using Prim's Algorithm
      * MST using Kruskal's Algorithms
-
-11. Strings:
-
-12. Arrays:
-
-13. LinkedList:
-
-14. DP 
+     
+11. DP 
      * Max Product Subarray
      * Longest Increasing Subsequence
      * Longest Common Subsequence
@@ -124,7 +118,7 @@
      * Palindrome Partioning
      * Max Profit in Job Scheduling
    
-15. Trie 
+12. Trie 
      * Implement Trie 1
      * Implement Trie 2
      * Longest String with all prefixes
@@ -133,13 +127,23 @@
      * Maximum XOR of 2 nums in array
      * Maximum XOR with 1 element in array
 
-16. Search
+13. Search
      * Linear
      * Binary
     
-17. Sort
+14. Sort
      * Selection
      * Bubble
      * Insertion
      * Merge
      * Quick
+
+15. LinkedList:
+
+16. Strings:
+
+17. Arrays:
+
+
+
+
