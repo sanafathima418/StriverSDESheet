@@ -77,13 +77,12 @@
 8. Stacks and Monotonic Stack(MS):
     * Queue using Stack
     * Next greater element 2 (MS)
+    * Largest Rectangle in Histogram (MS)
+    * Online Stock Span (MS)
     * Sort a stack
     * LRU Cache
     * LFU Cache
-    * Largest Rectangle in Histogram
     * Min Stack
-    * Online Stock Span
-    * Maximum of minimum for every window size
     * The Celebrity Problem
     
 9. Queues and Monotonic Queues(MQ):
