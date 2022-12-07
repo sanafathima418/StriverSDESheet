@@ -1,7 +1,7 @@
 class LRUCache:
 
 # Approach: Use stack and hashmap, keep updating stack as and when a key is accessed
-# TC: O(1) for get and put functions
+# TC: O(1) for get and put functions if used with doubly linked list, for below code some tc in searching for element to remove
 # SC: O(1) + O(1) as capacity of cache and stack are constant
 
     def __init__(self, capacity: int):
