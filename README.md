@@ -88,7 +88,7 @@
 9. Queues and Monotonic Queues(MQ):
     * Stack using Queues
     * Sliding window Maximum (MQ)
-    * Rotting Oranges
+    * Rotting Oranges - BFS Traversal of Matrix
 
 10. Graphs:
      * Clone a graph
