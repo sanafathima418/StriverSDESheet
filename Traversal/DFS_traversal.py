@@ -53,7 +53,7 @@ def depthFirstSearch(V, E, s_edges):
                 visited[adj_node] = 1
                 dfs_traversal()
     
-     # Loop over all nodes to account for non-connected components
+    # Loop over all nodes to account for non-connected components
     for node in adj_list:
         # Start of every connected component
         if visited[node] == 0: 
