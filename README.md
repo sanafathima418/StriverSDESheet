@@ -92,9 +92,9 @@
 
 10. Graphs:
      * [Clone a graph](https://leetcode.com/problems/clone-graph/)
-     * Number of Islands
-     * Bipartite Check (BFS, DFS)
-     * Strongly Connected with Kosraju's Algorithm - Maximum Number of Non-Overlapping Substrings
+     * [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+     * [Bipartite Check (BFS, DFS)](https://leetcode.com/problems/is-graph-bipartite/)
+     * [Strongly Connected with Kosraju's Algorithm - Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
      * Dijkstra's Algorithm
      * Bellman Ford Algorithm
      * Floyd Warshall Algorithm
