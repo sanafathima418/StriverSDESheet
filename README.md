@@ -64,7 +64,7 @@
    * Distinct numbers in a window
    * Kth largest element in Unsorted Array
    
-7. Heap and Priority Queues (study v/s)
+7. Heap and Priority Queues (study differences)
    * Min Heap
    * Max Heap
    * kth largest element
@@ -94,7 +94,7 @@
      * Clone a graph
      * Number of Islands
      * Bipartite Check (BFS, DFS)
-     * Strongly Connected
+     * Strongly Connected with Kosraju's Algorithm - Maximum Number of Non-Overlapping Substrings
      * Dijkstra's Algorithm
      * Bellman Ford Algorithm
      * Floyd Warshall Algorithm
@@ -117,6 +117,8 @@
      * Word Break
      * Palindrome Partioning
      * Max Profit in Job Scheduling
+     * Best Time to buy and sell stocks 3
+     * Best Time to buy and sell stocks 4
    
 12. Trie 
      * Implement Trie 1
@@ -143,7 +145,8 @@
 16. Strings:
 
 17. Arrays:
-     * Best Time to buy and sell stocks
+     * Best Time to buy and sell stocks 1
+     * Best Time to buy and sell stocks 2
 
 
 
