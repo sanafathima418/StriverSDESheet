@@ -22,7 +22,7 @@
    * [M coloring](https://www.codingninjas.com/codestudio/problems/981273)
    * [Sudoku Solve](https://www.codingninjas.com/codestudio/problems/758961)
    * [N queens](https://www.codingninjas.com/codestudio/problems/759332)
-   * [Word Break](https://leetcode.com/problems/word-break/ - TLE with backtracking)
+   * [Word Break - TLE with backtracking](https://leetcode.com/problems/word-break/)
    
 4. Tree / Graph Traversal
    * [BFS Traversal - Undirected](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002)
