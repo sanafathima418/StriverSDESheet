@@ -1,7 +1,7 @@
 # StriverSDESheet
 
 1. Greedy:
-   * N meetings in one room
+   * [N meetings in one room](https://www.codingninjas.com/codestudio/problems/1062658)
    * Minimum number of platforms required for railway
    * Job Sequencing
    * Fractional Knapsack
