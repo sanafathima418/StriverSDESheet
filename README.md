@@ -93,9 +93,9 @@
 10. Graphs:
      * [Clone a graph](https://leetcode.com/problems/clone-graph/)
      * [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-     * [Bipartite Check (BFS, DFS)](https://leetcode.com/problems/is-graph-bipartite/):
-        Same as m-coloring with 2 colors 
-        Conditions for bipartite - linear, cycle with even length
+     * [Bipartite Check (BFS, DFS)](https://leetcode.com/problems/is-graph-bipartite/):<br>
+        Same as m-coloring with 2 colors <br>
+        Conditions for bipartite - linear, cycle with even length <br>
         Non bipartite will have cycle with odd length
      * [Strongly Connected with Kosraju's Algorithm - Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
      * Dijkstra's Algorithm
