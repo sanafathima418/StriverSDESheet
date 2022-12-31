@@ -100,8 +100,13 @@
      * Floyd Warshall Algorithm
      * MST using Prim's Algorithm
      * MST using Kruskal's Algorithms
+
+11. Arrays:
+     * Best Time to buy and sell stocks 1
+     * Best Time to buy and sell stocks 2
+     * Merge 2 sorted arrays
      
-11. DP 
+12. DP 
      * Max Product Subarray
      * Longest Increasing Subsequence
      * Longest Common Subsequence
@@ -119,8 +124,14 @@
      * Max Profit in Job Scheduling
      * Best Time to buy and sell stocks 3
      * Best Time to buy and sell stocks 4
+
+13. Strings:
+
+14. LinkedList:
+
+15. Union Find
    
-12. Trie 
+16. Trie 
      * Implement Trie 1
      * Implement Trie 2
      * Longest String with all prefixes
@@ -129,24 +140,16 @@
      * Maximum XOR of 2 nums in array
      * Maximum XOR with 1 element in array
 
-13. Search
+17. Search
      * Linear
      * Binary
     
-14. Sort
+18. Sort
      * Selection
      * Bubble
      * Insertion
      * Merge
      * Quick
-
-15. LinkedList:
-
-16. Strings:
-
-17. Arrays:
-     * Best Time to buy and sell stocks 1
-     * Best Time to buy and sell stocks 2
 
 
 
