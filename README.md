@@ -7,6 +7,7 @@
    * [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/975286)
    * [Find mimimum number of coins](https://www.codingninjas.com/codestudio/problems/975277)
    * [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712)
+   * [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)
 
 2. Recursion: 
    * [Subset Sums 1](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086)
