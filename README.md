@@ -105,13 +105,8 @@
      * [Floyd Warshall Algorithm](https://www.codingninjas.com/codestudio/problems/2041979)
      * [MST using Prim's Algorithm](https://www.codingninjas.com/codestudio/problems/1095633)
      * [MST using Kruskal's Algorithms](https://www.codingninjas.com/codestudio/problems/1082553)
-
-11. Arrays:
-     * Best Time to buy and sell stocks 1
-     * Best Time to buy and sell stocks 2
-     * Merge 2 sorted arrays
      
-12. DP 
+11. DP 
      * Max Product Subarray
      * Longest Increasing Subsequence
      * Longest Common Subsequence
@@ -129,14 +124,17 @@
      * Max Profit in Job Scheduling
      * Best Time to buy and sell stocks 3
      * Best Time to buy and sell stocks 4
+     
+12. Arrays:
+     * Best Time to buy and sell stocks 1
+     * Best Time to buy and sell stocks 2
+     * Merge 2 sorted arrays
 
 13. Strings:
 
 14. LinkedList:
-
-15. Union Find
    
-16. Trie 
+15. Trie 
      * Implement Trie 1
      * Implement Trie 2
      * Longest String with all prefixes
@@ -144,6 +142,8 @@
      * **PowerSet**
      * Maximum XOR of 2 nums in array
      * Maximum XOR with 1 element in array
+     
+16. Union Find
 
 17. Search
      * Linear
@@ -155,7 +155,3 @@
      * Insertion
      * Merge
      * Quick
-
-
-
-
