@@ -99,13 +99,13 @@
         Same as m-coloring with 2 colors <br>
         Conditions for bipartite - linear, cycle with even length <br>
         Non bipartite will have cycle with odd length
-     * [Strongly Connected with Kosaraju's Algorithm](https://www.codingninjas.com/codestudio/problems/985311)
-     * [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
-     * [Dijkstra's Algorithm](https://www.codingninjas.com/codestudio/problems/920469)
-     * [Bellman Ford Algorithm](https://www.codingninjas.com/codestudio/problems/2041977)
-     * [Floyd Warshall Algorithm](https://www.codingninjas.com/codestudio/problems/2041979)
-     * [MST using Prim's Algorithm](https://www.codingninjas.com/codestudio/problems/1095633)
-     * [MST using Kruskal's Algorithms](https://www.codingninjas.com/codestudio/problems/1082553)
+     * Strongly Connected with Kosaraju's Algorithm
+     * Maximum Number of Non-Overlapping Substrings
+     * Dijkstra's Algorithm
+     * Bellman Ford Algorithm
+     * Floyd Warshall Algorithm
+     * MST using Prim's Algorithm
+     * MST using Kruskal's Algorithm
      
 11. DP 
      * Max Product Subarray
