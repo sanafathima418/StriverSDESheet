@@ -74,6 +74,7 @@
    * [Merge k sorted arrays](https://leetcode.com/problems/merge-k-sorted-lists/)
    * [k most frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
    * [Heap Sort](https://www.codingninjas.com/codestudio/problems/heap-sort_1262153)
+   * [Meetings Rooms 3](https://leetcode.com/problems/meeting-rooms-iii/)
 
 8. Stacks and Monotonic Stack(MS):
     * [Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)
