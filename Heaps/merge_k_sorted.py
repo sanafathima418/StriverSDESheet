@@ -8,6 +8,10 @@ import heapq
 
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+
+        # Approach: Use 1 minheap
+        # TC: O(NLOGK) where n is the number of nodes and k is the number of lists
+        # SC: O(N) for linkedlist and heap
         
         min_heap = []  # Min Heap
         head = curr = ListNode()  # New list: head points to start, curr to traverse over new list
