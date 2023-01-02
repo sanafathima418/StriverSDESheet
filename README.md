@@ -7,7 +7,6 @@
    * [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/975286)
    * [Find mimimum number of coins](https://www.codingninjas.com/codestudio/problems/975277)
    * [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712)
-   * [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)
 
 2. Recursion: 
    * [Subset Sums 1](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086)
@@ -74,7 +73,8 @@
    * [Merge k sorted arrays](https://leetcode.com/problems/merge-k-sorted-lists/)
    * [k most frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
    * [Heap Sort](https://www.codingninjas.com/codestudio/problems/heap-sort_1262153)
-   * [Meetings Rooms 3](https://leetcode.com/problems/meeting-rooms-iii/)
+   * [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/): 1 heap
+   * [Meetings Rooms 3](https://leetcode.com/problems/meeting-rooms-iii/): 2 heaps
 
 8. Stacks and Monotonic Stack(MS):
     * [Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)
@@ -100,11 +100,11 @@
         Conditions for bipartite - linear, cycle with even length <br>
         Non bipartite will have cycle with odd length
      * [Strongly Connected with Kosraju's Algorithm - Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
-     * Dijkstra's Algorithm
-     * Bellman Ford Algorithm
-     * Floyd Warshall Algorithm
-     * MST using Prim's Algorithm
-     * MST using Kruskal's Algorithms
+     * [Dijkstra's Algorithm](https://www.codingninjas.com/codestudio/problems/920469)
+     * [Bellman Ford Algorithm](https://www.codingninjas.com/codestudio/problems/2041977)
+     * [Floyd Warshall Algorithm](https://www.codingninjas.com/codestudio/problems/2041979)
+     * [MST using Prim's Algorithm](https://www.codingninjas.com/codestudio/problems/1095633)
+     * [MST using Kruskal's Algorithms](https://www.codingninjas.com/codestudio/problems/1082553)
 
 11. Arrays:
      * Best Time to buy and sell stocks 1
