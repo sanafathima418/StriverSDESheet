@@ -19,11 +19,11 @@ def calculateMinPatforms(at, dt, n):
     # Slow(Dep) and Fast Pointer(Arr)
     while(i < n and j < n):
         if at[i] <= dt[j]:
-            # 2. If a train arrives before previous train departure(after sorting), increase demand and i
+            # 2. If a train arrives before previous train departure(after sorting), increase both demand and i
             plats_needed += 1
             i += 1
         else:
-            # 3. If train departure(after sorting) is greater than next train arrival, decrease demand and j
+            # 3. If train departure(after sorting) is greater than next train arrival, decrease demand and increase j
             plats_needed -= 1
             j += 1
         # Update min plats needed after every iteration
