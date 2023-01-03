@@ -110,7 +110,7 @@
      * MST using Prim's Algorithm
      * MST using Kruskal's Algorithm
 
-11. DP
+11. DP<br>
     3 ways: <br>
     Memoization: Top down Technique - Go from Answer to base case <br>
     Tabulation: Bottom up Technique - Go from base case to answer <br>
