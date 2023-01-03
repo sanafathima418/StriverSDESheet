@@ -32,6 +32,9 @@
    * [DFS Traversal - Directed (same as Undirected just change adj list creation to include the only edge as provided)]()
    * [Check cyclic - Directed (BFS, DFS)](https://www.codingninjas.com/codestudio/problems/1062626)
    * [Topological Sorting - Directed (BFS, DFS)](https://www.codingninjas.com/codestudio/problems/982938)
+   * [Course Schedule 1](https://leetcode.com/problems/course-schedule/)
+   * [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)
+   * [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 6. Trees (Binary Trees, BST)
    * [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
