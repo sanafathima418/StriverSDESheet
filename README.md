@@ -109,26 +109,72 @@
      * Floyd Warshall Algorithm
      * MST using Prim's Algorithm
      * MST using Kruskal's Algorithm
-     
-11. DP 
-     3 ways - Memoization, Tabulation, Space Optimization
+
+11. DP
+    3 ways: <br>
+    Memoization: Top down Technique - Go from Answer to base case <br>
+    Tabulation: Bottom up Technique - Go from base case to answer <br>
+    Space Optimization: Good for interviews
+    * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+    * [Climbing Stairs]()
+    * Frog Jump
+    * Frog Jump with k distance
+    * Maximum number of non-adjacent elements
+    * House Robber 2
+    * Grid Unique Paths
+    * Unique Paths 2
+    * Max Path Sum in grid
+    * Triangle
+    * Max/Min falling path sum
+    * Cherry Pickup 2
+    * Subset sum equals target
+    * Partition equal subset sum
+    * Partition a set into 2 subsets with minimum absolute sum difference
+    * Counts subset with sum k
+    * Count partitions with given difference
+    * Target Sum
+
+11. DP-2
      * Max Product Subarray
-     * Longest Increasing Subsequence
-     * Longest Common Subsequence
      * 0-1 Knapsack
-     * Edit Distance
-     * Maximum sum increasing subsequence
-     * Matrix Chain Multiplication
-     * Minimum sum path in matrix
-     * Coin Change
-     * Subset Sum
+     * Unbounded Knapsack
+     * Minimum Coins
+     * Coin Change 1
+     * Coin Change 2
      * Rod Cutting
+     * Longest Common Subsequence
+     * Longest Common Substring
+     * Longest Common Palindromic Subsequence
+     * Minimum insertions to make string palindromic
+     * Minimum insertions/deletions to convert string A to string B
+     * Shortest common supersequence
+     * Distinct subsequences
+     * Edit Distance
+     * Wildcard matching
+     * Maximum sum increasing subsequence
+     * Minimum sum path in matrix
+     * Subset Sum
      * Egg Dropping
      * Word Break
-     * Palindrome Partioning
      * Max Profit in Job Scheduling
      * Best Time to buy and sell stocks 3
      * Best Time to buy and sell stocks 4
+     * Best Time to buy and sell stocks with cooldown
+     * Best Time to buy and sell stocks with transaction fees
+     * Longest Increasing Subsequence
+     * Largest Divisible Subset
+     * Longest String Chain
+     * Longest Bitonic Subsequence
+     * Number of Longest Increasing Subsequence
+     * Matrix Chain Multiplication
+     * Minimum cost to cut stick
+     * Burst Balloons
+     * Evaluate Boolean Expression to true
+     * Palindrome Partitioning 1
+     * Palindrome Partitioning 2
+     * Partition array for max sum
+     * Maximum Rectangle Area with all 1s
+     * Count square submatrices with all 1s
      
 12. Arrays:
      * Best Time to buy and sell stocks 1
