@@ -111,6 +111,7 @@
      * MST using Kruskal's Algorithm
      
 11. DP 
+     3 ways - Memoization, Tabulation, Space Optimization
      * Max Product Subarray
      * Longest Increasing Subsequence
      * Longest Common Subsequence
