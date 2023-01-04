@@ -111,16 +111,19 @@
      * MST using Kruskal's Algorithm
 
 11. DP<br>
-    3 ways: <br>
+    4 Steps/ways: <br>
+    Recursive Solution: Can be easily converted to DP with a dp array for memoization, dp array with loop for tabulation, loop and variables for space optimization <br>
     Memoization: Top down Technique - Go from Answer to base case <br>
     Tabulation: Bottom up Technique - Go from base case to answer <br>
     Space Optimization: Good for interviews
     * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-    * [Climbing Stairs]()
-    * Frog Jump
-    * Frog Jump with k distance
-    * Maximum number of non-adjacent elements
-    * House Robber 2
+    * [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+    * [Frog Jump 1](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012)
+    * [Frog Jump 2 - with k distance](https://atcoder.jp/contests/dp/tasks/dp_b)
+    * [Frog Jump 3](https://leetcode.com/problems/frog-jump/)
+    * [Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261)
+    * [House Robber 1](https://leetcode.com/problems/house-robber/)
+    * [House Robber 2](https://leetcode.com/problems/house-robber-ii/)
     * Grid Unique Paths
     * Unique Paths 2
     * Max Path Sum in grid
