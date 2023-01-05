@@ -56,7 +56,7 @@ def frogJump(n: int, heights: List[int]) -> int:
     
 #     # Approach 3: DP Tabulation
 #     # TC: O(N) for checking all steps on staircase
-#     # SC: O(N) for dp array
+#     # SC: O() for dp array
     
 #     dp_array = [0]*n
 #     # 1. Base Case
@@ -76,7 +76,7 @@ def frogJump(n: int, heights: List[int]) -> int:
 
     # Approach 4: DP Tabulation Space Optimization
     # TC: O(N) for checking all steps on staircase
-    # SC: O(N) for dp array
+    # SC: O(1) 
     
     # 1. Base Case
     if n == 0:
