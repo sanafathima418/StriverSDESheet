@@ -124,6 +124,7 @@
     * [Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261)
     * [House Robber 1](https://leetcode.com/problems/house-robber/)
     * [House Robber 2](https://leetcode.com/problems/house-robber-ii/)
+    * [Ninja's Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
     * [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
     * [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
     * [Max Path Sum in grid](https://leetcode.com/problems/minimum-path-sum/)
