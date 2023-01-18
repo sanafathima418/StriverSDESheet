@@ -139,12 +139,12 @@
     * [Cherry Pickup 2](https://leetcode.com/problems/cherry-pickup-ii/)
 
     DP on subsequences
-    * Subset sum equals target
-    * Partition equal subset sum
-    * Partition a set into 2 subsets with minimum absolute sum difference
-    * Counts subset with sum k
-    * Count partitions with given difference
-    * Target Sum
+    * [Subset sum equals target](https://leetcode.com/problems/subarray-sum-equals-k/)
+    * [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+    * [Partition a set into 2 subsets with minimum absolute sum difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+    * [Counts subset with sum k](https://www.codingninjas.com/codestudio/problems/number-of-subsets_3952532)
+    * [Count partitions with given difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628)
+    * [Target Sum](https://leetcode.com/problems/target-sum/)
 
 11. DP-2
      * Max Product Subarray
