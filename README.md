@@ -116,6 +116,8 @@
     Memoization: Top down Technique - Go from Answer to base case <br>
     Tabulation: Bottom up Technique - Go from base case to answer <br>
     Space Optimization: Good for interviews
+    
+    1D DP
     * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
     * [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
     * [Frog Jump 1](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012)
@@ -124,13 +126,17 @@
     * [Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261)
     * [House Robber 1](https://leetcode.com/problems/house-robber/)
     * [House Robber 2](https://leetcode.com/problems/house-robber-ii/)
+
+    2D DP on grids
     * [Ninja's Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
     * [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
     * [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
     * [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
     * [Triangle](https://leetcode.com/problems/triangle/)
-    * Max/Min falling path sum
-    * Cherry Pickup 2
+    * [Max falling path sum](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998)
+    * [Cherry Pickup 2](https://leetcode.com/problems/cherry-pickup-ii/)
+
+    DP on subsequences
     * Subset sum equals target
     * Partition equal subset sum
     * Partition a set into 2 subsets with minimum absolute sum difference
