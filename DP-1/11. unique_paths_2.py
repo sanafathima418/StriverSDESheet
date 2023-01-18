@@ -93,7 +93,7 @@ class Solution:
                 # 2.2 Destination check
                 elif i == m-1 and j == n-1:
                     dp[i][j] = 1
-                # Add left and right if within boundary
+                # Add right and down if within boundary
                 else:
                     right = 0
                     down = 0
