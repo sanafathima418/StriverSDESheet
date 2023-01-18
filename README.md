@@ -127,7 +127,7 @@
     * [Ninja's Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
     * [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
     * [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
-    * [Max Path Sum in grid](https://leetcode.com/problems/minimum-path-sum/)
+    * [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
     * [Triangle](https://leetcode.com/problems/triangle/)
     * Max/Min falling path sum
     * Cherry Pickup 2
