@@ -134,6 +134,8 @@
     * [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
     * [Triangle](https://leetcode.com/problems/triangle/)
     * [Max falling path sum](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998)
+
+    3D DP on grids
     * [Cherry Pickup 2](https://leetcode.com/problems/cherry-pickup-ii/)
 
     DP on subsequences
