@@ -139,7 +139,7 @@
     * [Cherry Pickup 2](https://leetcode.com/problems/cherry-pickup-ii/)
 
     DP on subsequences
-    * [Subset sum equals target](https://leetcode.com/problems/subarray-sum-equals-k/)
+    * [Subset sum equals target](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954)
     * [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/)
     * [Partition a set into 2 subsets with minimum absolute sum difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
     * [Counts subset with sum k](https://www.codingninjas.com/codestudio/problems/number-of-subsets_3952532)
