@@ -144,15 +144,15 @@
     * [Partition a set into 2 subsets with minimum absolute sum difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
     * [Counts subset with sum k](https://www.codingninjas.com/codestudio/problems/number-of-subsets_3952532)
     * [Count partitions with given difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628)
-    * [Target Sum](https://leetcode.com/problems/target-sum/)
 
 11. DP-2
-     * Max Product Subarray
-     * 0-1 Knapsack
-     * Unbounded Knapsack
-     * Minimum Coins
-     * Coin Change 1
-     * Coin Change 2
+     * [0-1 Knapsack] (https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
+     * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091)
+     * [Target Sum](https://leetcode.com/problems/target-sum/)
+     * [Coin Change 1](https://leetcode.com/problems/coin-change/)
+     * [Coin Change 2](https://leetcode.com/problems/coin-change-ii/)
+     * [Unbounded Knapsack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029)
+     * [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
      * Rod Cutting
      * Longest Common Subsequence
      * Longest Common Substring
