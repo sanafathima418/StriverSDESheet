@@ -147,7 +147,7 @@
 
 11. DP-2
      * [0-1 Knapsack] (https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
-     * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091)
+     * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091) - Infinite Supplies Pattern
      * [Target Sum](https://leetcode.com/problems/target-sum/)
      * [Coin Change 1](https://leetcode.com/problems/coin-change/)
      * [Coin Change 2](https://leetcode.com/problems/coin-change-ii/)
