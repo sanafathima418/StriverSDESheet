@@ -154,7 +154,6 @@
      * [Unbounded Knapsack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) - Infinite Supplies Pattern
      * [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284)
      * [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-     
      * Longest Common Subsequence
      * Longest Common Substring
      * Longest Common Palindromic Subsequence
@@ -162,7 +161,6 @@
      * Minimum insertions/deletions to convert string A to string B
      * Shortest common supersequence
      * Distinct subsequences
-     
      * Edit Distance
      * Wildcard matching
      * Maximum sum increasing subsequence
