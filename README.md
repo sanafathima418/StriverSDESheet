@@ -148,7 +148,7 @@
 
 11. DP-2
      DP on subsequences
-     * [0-1 Knapsack] (https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
+     * [0-1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
      * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091) / [Coin Change 1](https://leetcode.com/problems/coin-change/) - Infinite Supplies Pattern
      * [Coin Change 2](https://leetcode.com/problems/coin-change-ii/) - Infinite Supplies Pattern
      * [Unbounded Knapsack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) - Infinite Supplies Pattern
