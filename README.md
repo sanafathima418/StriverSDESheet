@@ -153,7 +153,7 @@
      * [Coin Change 2](https://leetcode.com/problems/coin-change-ii/) - Infinite Supplies Pattern
      * [Unbounded Knapsack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) - Infinite Supplies Pattern
      * [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284)
-     * [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+     * [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Kadane's Algorithm
      * Longest Common Subsequence
      * Longest Common Substring
      * Longest Common Palindromic Subsequence
@@ -189,8 +189,8 @@
      * Count square submatrices with all 1s
      
 12. Arrays:
-     * Best Time to buy and sell stocks 1
-     * Best Time to buy and sell stocks 2
+     * Best Time to buy and sell stocks 1 - Kadane's Algorithm
+     * Best Time to buy and sell stocks 2 - Kadane's Algorithm
      * Merge 2 sorted arrays
 
 13. Strings:
