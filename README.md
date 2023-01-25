@@ -190,7 +190,7 @@
      
 12. Arrays:
      * Best Time to buy and sell stocks 1 - Kadane's Algorithm
-     * Best Time to buy and sell stocks 2
+     * Best Time to buy and sell stocks 2 - Kadane's Algorithm
      * Merge 2 sorted arrays
 
 13. Strings:
