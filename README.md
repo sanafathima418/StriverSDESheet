@@ -189,7 +189,7 @@
      * Count square submatrices with all 1s
      
 12. Arrays:
-     * Best Time to buy and sell stocks 1
+     * Best Time to buy and sell stocks 1 - Kadane's Algorithm
      * Best Time to buy and sell stocks 2
      * Merge 2 sorted arrays
 
