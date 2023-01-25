@@ -1,6 +1,5 @@
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:
-        
+    def maxSubArray(self, nums: List[int]) -> int:
         # Approach 1: DP Tabulation
         # Employ Kadane's Algorithm here 
         # Pick not pick wont work for contigious subarrays
@@ -18,8 +17,8 @@ class Solution:
             # Calculate temp max(cant use local max as it will get updated disrupting results for calculating local min) 
             # Temp max first cause local min, local max doesnt get updated before this iteration is complete
             
-            temp_max = max(nums[i], nums[i] * local_min, nums[i] * local_max)
-            local_min = min(nums[i], nums[i] * local_min, nums[i] * local_max)
+            temp_max = max(nums[i], nums[i] + local_min, nums[i] + local_max)
+            local_min = min(nums[i], nums[i] + local_min, nums[i] + local_max)
             
             local_max = temp_max
             

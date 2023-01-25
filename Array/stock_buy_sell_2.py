@@ -4,6 +4,7 @@ class Solution:
         # As soon as maxima found, update profit
         # TC: O(N)
         # SC: O(1)
+        # Kadane's Algorithm
         
         # Store maxima, minima and profit
         max_min_set = [prices[0]]*2
