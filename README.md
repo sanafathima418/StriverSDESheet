@@ -147,14 +147,19 @@
     * [Target Sum](https://leetcode.com/problems/target-sum/) - Same as Count partitions with given difference
 
 11. DP-2
-     DP on subsequences
-     * [0-1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
-     * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091) / [Coin Change 1](https://leetcode.com/problems/coin-change/) - Infinite Supplies Pattern
-     * [Coin Change 2](https://leetcode.com/problems/coin-change-ii/) - Infinite Supplies Pattern
-     * [Unbounded Knapsack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) - Infinite Supplies Pattern
+    * [0-1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542
+    
+     Infinite Supplies Pattern
+     * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091) / [Coin Change 1](https://leetcode.com/problems/coin-change/) 
+     * [Coin Change 2](https://leetcode.com/problems/coin-change-ii/)
+     * [Unbounded Knapsack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) 
      * [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284)
-     * [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - Kadane's Algorithm
-     * [Max Subarray Sum](https://leetcode.com/problems/maximum-subarray/) - Kadane's Algorithm
+
+     Kadane's Algorithm
+     * [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+     * [Max Subarray Sum](https://leetcode.com/problems/maximum-subarray/)
+
+     DP on Strings
      * Longest Common Subsequence
      * Longest Common Substring
      * Longest Common Palindromic Subsequence
@@ -162,6 +167,8 @@
      * Minimum insertions/deletions to convert string A to string B
      * Shortest common supersequence
      * Distinct subsequences
+
+     Others
      * Edit Distance
      * Wildcard matching
      * Maximum sum increasing subsequence
