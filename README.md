@@ -160,8 +160,8 @@
      * [Max Subarray Sum](https://leetcode.com/problems/maximum-subarray/)
 
      DP on Strings
-     * Longest Common Subsequence
-     * Longest Common Substring
+     * [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - with Reconstruction(printing lcs)
+     * [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207)
      * Longest Common Palindromic Subsequence
      * Minimum insertions to make string palindromic
      * Minimum insertions/deletions to convert string A to string B
