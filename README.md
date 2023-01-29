@@ -146,7 +146,7 @@
     * [Count partitions with given difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628)
     * [Target Sum](https://leetcode.com/problems/target-sum/) - Same as Count partitions with given difference
 
-11. DP-2:
+12. DP-2:
     * [0-1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
     
      Infinite Supplies Pattern
@@ -169,7 +169,7 @@
      * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
      * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/)
 
-     Others
+13. DP-3:
      * Wildcard matching
      * Maximum sum increasing subsequence
      * Minimum sum path in matrix
@@ -196,7 +196,7 @@
      * Maximum Rectangle Area with all 1s
      * Count square submatrices with all 1s
      
-12. Arrays:
+14. Arrays:
      Kadane's Algorithm
      * [Best Time to buy and sell stocks 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
      * [Best Time to buy and sell stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
@@ -204,11 +204,11 @@
      Others
      * [Merge 2 sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
 
-13. Strings:
+15. Strings:
 
-14. LinkedList:
+16. LinkedList:
    
-15. Trie:
+17. Trie:
      * Implement Trie 1
      * Implement Trie 2
      * Longest String with all prefixes
@@ -217,13 +217,13 @@
      * Maximum XOR of 2 nums in array
      * Maximum XOR with 1 element in array
      
-16. Union Find:
+18. Union Find:
 
-17. Search:
+19. Search:
      * Linear
      * Binary
     
-18. Sort:
+20. Sort:
      * Selection
      * Bubble
      * Insertion
