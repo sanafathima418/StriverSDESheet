@@ -163,13 +163,13 @@
      * [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - with Reconstruction(printing lcs)
      * [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207)
      * [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
-     * Minimum insertions to make string palindromic
-     * Minimum insertions/deletions to convert string A to string B
-     * Shortest common supersequence
-     * Distinct subsequences
+     * [Minimum insertions to make string palindromic](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
+     * [Minimum insertions/deletions to convert string A to string B](https://www.codingninjas.com/codestudio/problems/can-you-make_4244510)
+     * [Edit Distance](https://leetcode.com/problems/edit-distance/)
+     * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+     * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/)
 
      Others
-     * Edit Distance
      * Wildcard matching
      * Maximum sum increasing subsequence
      * Minimum sum path in matrix
