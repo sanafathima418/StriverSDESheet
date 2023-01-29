@@ -162,7 +162,7 @@
      DP on Strings
      * [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - with Reconstruction(printing lcs)
      * [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207)
-     * Longest Common Palindromic Subsequence
+     * [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
      * Minimum insertions to make string palindromic
      * Minimum insertions/deletions to convert string A to string B
      * Shortest common supersequence
