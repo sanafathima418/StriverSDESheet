@@ -24,7 +24,7 @@
    * [N queens](https://www.codingninjas.com/codestudio/problems/759332)
    * [Word Break - TLE with backtracking](https://leetcode.com/problems/word-break/)
    
-4. Tree / Graph Traversal
+4. Tree / Graph Traversal:
    * [BFS Traversal - Undirected](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002)
    * [DFS Traversal - Undirected](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462)
    * [Check cyclic - Undirected (BFS, DFS)](https://www.codingninjas.com/codestudio/problems/1062670)
@@ -36,7 +36,7 @@
    * [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)
    * [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
-6. Trees (Binary Trees, BST)
+6. Trees (Binary Trees, BST):
    * [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
    * [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
    * [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
@@ -67,7 +67,7 @@
    * Distinct numbers in a window
    * Kth largest element in Unsorted Array
    
-7. Heap and Priority Queues (study differences)
+7. Heap and Priority Queues (study differences):
    * [Min Heap](https://www.codingninjas.com/codestudio/problems/min-heap_4691801)
    * [Max Heap - negate input array](https://www.codingninjas.com/codestudio/problems/min-heap_4691801)
    * [kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
@@ -110,7 +110,7 @@
      * MST using Prim's Algorithm
      * MST using Kruskal's Algorithm
 
-11. DP<br>
+11. DP:<br>
     4 Steps/ways: <br>
     Recursive Solution: Can be easily converted to DP with a dp array for memoization, dp array with loop for tabulation, loop and variables for space optimization <br>
     Memoization: Top down Technique - Go from Answer to base case <br>
@@ -146,8 +146,8 @@
     * [Count partitions with given difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628)
     * [Target Sum](https://leetcode.com/problems/target-sum/) - Same as Count partitions with given difference
 
-11. DP-2
-    * [0-1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542
+11. DP-2:
+    * [0-1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542)
     
      Infinite Supplies Pattern
      * [Minimum Coins](https://www.codingninjas.com/codestudio/problems/minimum-elements_3843091) / [Coin Change 1](https://leetcode.com/problems/coin-change/) 
@@ -197,15 +197,18 @@
      * Count square submatrices with all 1s
      
 12. Arrays:
-     * Best Time to buy and sell stocks 1 - Kadane's Algorithm
-     * Best Time to buy and sell stocks 2 - Kadane's Algorithm
-     * Merge 2 sorted arrays
+     Kadane's Algorithm
+     * [Best Time to buy and sell stocks 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+     * [Best Time to buy and sell stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+     
+     Others
+     * [Merge 2 sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
 
 13. Strings:
 
 14. LinkedList:
    
-15. Trie 
+15. Trie:
      * Implement Trie 1
      * Implement Trie 2
      * Longest String with all prefixes
@@ -214,13 +217,13 @@
      * Maximum XOR of 2 nums in array
      * Maximum XOR with 1 element in array
      
-16. Union Find
+16. Union Find:
 
-17. Search
+17. Search:
      * Linear
      * Binary
     
-18. Sort
+18. Sort:
      * Selection
      * Bubble
      * Insertion
