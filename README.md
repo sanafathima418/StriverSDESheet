@@ -162,8 +162,8 @@
      DP on Strings
      * [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - with Reconstruction(printing lcs)
      * [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207)
-     * [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
-     * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+     * [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) - Same as LCS with a reversed string
+     * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Not same as LCS with reserved string - will need an extra crazy condition to achieve this with LCS logic. Could also consider solving this using the other techniques like expand around center and Manacher's Algorithm. 
      * [Minimum insertions to make string palindromic](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
      * [Minimum insertions/deletions to convert string A to string B](https://www.codingninjas.com/codestudio/problems/can-you-make_4244510)
      * [Edit Distance](https://leetcode.com/problems/edit-distance/)
