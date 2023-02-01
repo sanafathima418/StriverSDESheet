@@ -203,13 +203,74 @@
      * [Best Time to buy and sell stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
      
      Others
-     * [Merge 2 sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
-
+     * [Merge 2 sorted arrays](https://leetcode.com/problems/merge-sorted-array/) - without extra space
+     * Set Matrix Zeros
+     * Pascal's Triangle
+     * Next Permutation
+     * Sort an array of 0s 1s and 2s
+     * Rotate Matrix
+     * Merge overlapping subintervals
+     * Find the duplicate in an array of N+1 integers
+     * Repeat and Missing number
+     * Inversion of Array (MergeSort)
+     * Search in 2D Matrix
+     * Pow(X,n)
+     * Majority Element(>N/2 times)
+     * Majority Element(>N/3 times)
+     * Grid Unqiue Paths
+     * Reverse Pairs
+     * 2 sum
+     * 3 sum
+     * 4 sum
+     * Longest Consecutive Sequence
+     * Largest Subarray with 0 sum
+     * Count number of subarrays with given X or K
+     * Longest Substring without repeat
+     * Trapping Rain Water
+     * Removing duplicates from sorted array
+     * Max consecutive ones
+    
 15. Strings:
+    * Reverse words in string
+    * Longest palindrome in string
+    * Roman number to integer and vice versa
+    * Implement ATOI/STR
+    * Longest Common Prefix
+    * Rabin Karp
+    * Z function
+    * KMP algo
+    * Min characters to be inserted in beginning to make string palindromic
+    * Check for anagrams
+    * Count and say
+    * Compare version numbers
 
 16. LinkedList:
-   
-17. Trie:
+    * Reverse Linked List
+    * Find the middle of ll
+    * Merge 2 sorted ll
+    * Remove nth node from back of ll
+    * Add 2 numbers as ll
+    * Delete given node from ll
+    * Find intersection point of y on ll
+    * Detect a cycle in ll
+    * Reverse a ll in groups of size k
+    * Check if a ll is a palindrome
+    * Find start point of loop of ll
+    * Flatten ll
+    * Rotate ll
+    * Clone a ll with random next pointer
+
+17. Binary Search:
+    * Nth root of integer
+    * Matrix Median
+    * Single element in sorted array
+    * Search in rotated sorted array
+    * Median of 2 sorted arrays
+    * Kth element of 2 sorted arrays
+    * Allocate books
+    * Chess Tournament
+
+18. Trie:
      * Implement Trie 1
      * Implement Trie 2
      * Longest String with all prefixes
@@ -217,12 +278,8 @@
      * **PowerSet**
      * Maximum XOR of 2 nums in array
      * Maximum XOR with 1 element in array
-     
-18. Union Find:
 
-19. Search:
-     * Linear Search
-     * Binary Search
+19. Union Find:(Not from Striver Sheet)
     
 20. Sort:
      * Selection Sort
