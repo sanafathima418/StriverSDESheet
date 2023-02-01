@@ -165,8 +165,8 @@
      * [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) - Same as LCS with a reversed string
      * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Not same as LCS with reserved string - will need an extra crazy condition to achieve this with LCS logic. Could also consider solving this using the other techniques like expand around center and Manacher's Algorithm. 
      * [Minimum insertions to make string palindromic](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - Same as LPS with a final (n - length of lps)
-     * [Minimum insertions/deletions to convert string A to string B](https://www.codingninjas.com/codestudio/problems/can-you-make_4244510)
-     * [Edit Distance](https://leetcode.com/problems/edit-distance/)
+     * [Minimum insertions/deletions to convert string A to string B](https://www.codingninjas.com/codestudio/problems/can-you-make_4244510) - Same as LCS except for return condition
+     * [Edit Distance](https://leetcode.com/problems/edit-distance/) - Same as LCS except for non match and base case
      * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
      * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/)
      * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/)
