@@ -170,6 +170,7 @@
      * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
      * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/)
      * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/)
+     * [Regex matching](https://leetcode.com/problems/regular-expression-matching/)
 
 13. DP-3:
      * Maximum sum increasing subsequence
