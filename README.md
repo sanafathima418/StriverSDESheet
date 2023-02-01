@@ -221,12 +221,13 @@
 18. Union Find:
 
 19. Search:
-     * Linear
-     * Binary
+     * Linear Search
+     * Binary Search
     
 20. Sort:
-     * Selection
-     * Bubble
-     * Insertion
-     * Merge
-     * Quick
+     * Selection Sort
+     * Bubble Sort
+     * Insertion Sort
+     * Merge Sort
+     * Quick Sort
+     * Heap Sort
