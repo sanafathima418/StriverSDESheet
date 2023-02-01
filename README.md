@@ -169,19 +169,19 @@
      * [Edit Distance](https://leetcode.com/problems/edit-distance/)
      * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
      * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/)
+     * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/)
 
 13. DP-3:
-     * Wildcard matching
      * Maximum sum increasing subsequence
      * Minimum sum path in matrix
      * Subset Sum
      * Egg Dropping
      * Word Break
-     * Max Profit in Job Scheduling
      * Best Time to buy and sell stocks 3
      * Best Time to buy and sell stocks 4
      * Best Time to buy and sell stocks with cooldown
      * Best Time to buy and sell stocks with transaction fees
+     * Max Profit in Job Scheduling
      * Longest Increasing Subsequence
      * Largest Divisible Subset
      * Longest String Chain
