@@ -173,37 +173,41 @@
      * [Regex matching](https://leetcode.com/problems/regular-expression-matching/) - Slightly similar to wildcard matching
 
 13. DP-3:
-     * Maximum sum increasing subsequence
-     * Minimum sum path in matrix
-     * Subset Sum
-     * Egg Dropping
-     * Word Break
-     * Best Time to buy and sell stocks 3
-     * Best Time to buy and sell stocks 4
-     * Best Time to buy and sell stocks with cooldown
-     * Best Time to buy and sell stocks with transaction fees
-     * Max Profit in Job Scheduling
-     * Longest Increasing Subsequence
-     * Largest Divisible Subset
-     * Longest String Chain
-     * Longest Bitonic Subsequence
-     * Number of Longest Increasing Subsequence
-     * Matrix Chain Multiplication
-     * Minimum cost to cut stick
-     * Burst Balloons
-     * Evaluate Boolean Expression to true
-     * Palindrome Partitioning 1
-     * Palindrome Partitioning 2
-     * Partition array for max sum
-     * Maximum Rectangle Area with all 1s
-     * Count square submatrices with all 1s
+     DP on Stocks   
+     * [Best Time to buy and sell stocks 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+     * [Best Time to buy and sell stocks 4](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+     * [Best Time to buy and sell stocks with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+     * [Best Time to buy and sell stocks with transaction fees](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+     * [Best Time to buy and sell stocks 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) -  Kadane's Algorithm
+     * [Best Time to buy and sell stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) -  Kadane's Algorithm
+   
+     DP on LIS
+     * [Longest Increasing Subsequence + Reconstruction](https://leetcode.com/problems/longest-increasing-subsequence/)
+     * [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+     * [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+     * [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+     * [Longest Bitonic Subsequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688)
+
+     DP on MCM/ Partition
+     * [Matrix Chain Multiplication](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344)
+     * [Minimum cost to cut stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+     * [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+     * [Evaluate Boolean Expression to true](https://leetcode.com/problems/parsing-a-boolean-expression/)
+     * [Palindrome Partitioning 1](https://leetcode.com/problems/palindrome-partitioning/)
+     * [Palindrome Partitioning 2(https://leetcode.com/problems/palindrome-partitioning-ii/)
+     * [Partition array for max sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
+
+     DP on Squares
+     * [Maximum Rectangle Area with all 1s](https://leetcode.com/problems/maximal-rectangle/)
+     * [Count square submatrices with all 1s](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+
+     Others
+     * [Maximum sum increasing subsequence](https://www.codingninjas.com/codestudio/problems/1112624)
+     * [Egg Dropping](https://leetcode.com/problems/super-egg-drop/)
+     * [Word Break - Backtracking + DP](https://leetcode.com/problems/word-break/)
+     * [Max Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
      
 14. Arrays:
-     Kadane's Algorithm
-     * [Best Time to buy and sell stocks 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
-     * [Best Time to buy and sell stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-     
-     Others
      * [Merge 2 sorted arrays](https://leetcode.com/problems/merge-sorted-array/) - without extra space
      * Set Matrix Zeros
      * Pascal's Triangle
