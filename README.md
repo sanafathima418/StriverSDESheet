@@ -167,10 +167,10 @@
      * [Minimum insertions to make string palindromic](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - Same as LPS with a final (n - length of lps)
      * [Minimum insertions/deletions to convert string A to string B](https://www.codingninjas.com/codestudio/problems/can-you-make_4244510) - Same as LCS except for return condition
      * [Edit Distance](https://leetcode.com/problems/edit-distance/) - Same as LCS except for non match and base case
-     * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
-     * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/)
-     * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/)
-     * [Regex matching](https://leetcode.com/problems/regular-expression-matching/)
+     * [Shortest common supersequence](https://leetcode.com/problems/shortest-common-supersequence/) - LCS reconstucted + other chars in str1 + other chars in str2
+     * [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/) - If match, take(go back on j) and not take(stay on j), if not match go back and search in i for char at j(stay on j)
+     * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/) - Special Caution for * (In both base case and recurrence)
+     * [Regex matching](https://leetcode.com/problems/regular-expression-matching/) - Slightly similar to wildcard matching
 
 13. DP-3:
      * Maximum sum increasing subsequence
