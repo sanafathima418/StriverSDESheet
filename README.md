@@ -194,7 +194,7 @@
      * [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
      * [Evaluate Boolean Expression to true](https://leetcode.com/problems/parsing-a-boolean-expression/)
      * [Palindrome Partitioning 1](https://leetcode.com/problems/palindrome-partitioning/)
-     * [Palindrome Partitioning 2(https://leetcode.com/problems/palindrome-partitioning-ii/)
+     * [Palindrome Partitioning 2](https://leetcode.com/problems/palindrome-partitioning-ii/)
      * [Partition array for max sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
 
      DP on Squares
