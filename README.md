@@ -172,7 +172,7 @@
      * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/) - Special Caution for * (In both base case and recurrence)
      * [Regex matching](https://leetcode.com/problems/regular-expression-matching/) - Slightly similar to wildcard matching
 
-13. DP-3:
+13. DP-3:<br>
      DP on Stocks   
      * [Best Time to buy and sell stocks 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
      * [Best Time to buy and sell stocks 4](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
