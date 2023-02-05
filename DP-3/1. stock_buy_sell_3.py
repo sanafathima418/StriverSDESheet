@@ -40,7 +40,7 @@ class Solution:
     
 #         # Approach: DP Memoization
 #         # TC: O(N^2)
-#         # SC: O(1)
+#         # SC: O(N^2)
         
 #         n = len(prices)
 #         dp = [[-1 for i in range(5)] for j in range(n)]
@@ -78,8 +78,8 @@ class Solution:
 #         return recur_profit(0, 4)
 
         # Approach: DP Tabulation
-        # TC: O(N)
-        # SC: O(1)
+#         # TC: O(N^2)
+#         # SC: O(N^2)
         
         n = len(prices)
         dp = [[0 for i in range(5)] for j in range(n+1)]
