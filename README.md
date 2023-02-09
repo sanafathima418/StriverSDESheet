@@ -183,6 +183,7 @@
    
      DP on LIS
      * [Longest Increasing Subsequence + Reconstruction](https://leetcode.com/problems/longest-increasing-subsequence/)
+     * [LIS 2](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) - Best solution possible with segment trees
      * [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
      * [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
      * [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
