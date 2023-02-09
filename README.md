@@ -293,3 +293,6 @@
      * Merge Sort
      * Quick Sort
      * Heap Sort
+     
+21. Unique Topics
+    * Segment Trees
