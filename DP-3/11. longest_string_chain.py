@@ -68,7 +68,7 @@ class Solution:
 
         # Approach 2: No need to do lcs, just check for existence of all characters of 2nd string in 1st
         # TC: O(N^2 * L)
-        # SC: O()
+        # SC: O(N)
 
         # Intuition:
         # 1. Sort word array based on length
