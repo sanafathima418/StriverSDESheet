@@ -297,6 +297,7 @@
      * Merge Sort
      * Quick Sort
      * Heap Sort
+     * Bitonic Sort
      
 21. Unique Topics
     * Segment Trees
