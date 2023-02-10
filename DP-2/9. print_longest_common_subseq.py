@@ -10,8 +10,8 @@ class Solution:
         lcs = ""
 
         while(i and j):
-            if text1[i] == text2[j]:
-                lcs += text1[i]
+            if text1[i-1] == text2[j-1]:
+                lcs += text1[i-1]
                 i -= 1
                 j -= 1
             else:

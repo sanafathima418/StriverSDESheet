@@ -21,6 +21,8 @@ class Solution:
             hashr[i] = i # points to same index
             for j in range(i):
                 if nums[i] % nums[j] == 0 and 1 + dp[j] > dp[i]:
+                    # Only check last number of subseq as if a number is divisble by that, 
+                    # then it is divisible by all as all seen before are smaller(sorted)
                     # Similar to dp[i] = max(dp[i], 1 + dp[j])
                     dp[i] = 1 + dp[j]
                     hashr[i] = j # update best idx to go back to for recon
