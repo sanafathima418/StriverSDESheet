@@ -182,7 +182,7 @@
      * [Best Time to buy and sell stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) -  Kadane's Algorithm
    
      DP on LIS
-     * [Longest Increasing Subsequence + Reconstruction](https://leetcode.com/problems/longest-increasing-subsequence/)
+     * [Longest Increasing Subsequence + Reconstruction](https://leetcode.com/problems/longest-increasing-subsequence/) - DP, DP with linear search, non DP with binary search(lower bound)
      * [LIS 2](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) - Best solution possible with segment trees
      * [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
      * [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
@@ -201,6 +201,9 @@
      DP on Squares
      * [Maximum Rectangle Area with all 1s](https://leetcode.com/problems/maximal-rectangle/)
      * [Count square submatrices with all 1s](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+     
+     DP Problems that can be done with Binary Search (Lower, Upper Bound)
+     * [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 
      Others
      * [Maximum sum increasing subsequence](https://www.codingninjas.com/codestudio/problems/1112624)
