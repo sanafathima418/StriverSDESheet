@@ -184,10 +184,10 @@
      DP on LIS
      * [Longest Increasing Subsequence + Reconstruction](https://leetcode.com/problems/longest-increasing-subsequence/) - DP, DP with linear search, non DP with binary search(lower bound)
      * [LIS 2](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) - Best solution possible with segment trees
-     * [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
-     * [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
-     * [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
-     * [Longest Bitonic Subsequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688)
+     * [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)- LIS with an additional count array for counting
+     * [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) - LIS except for condition change for divisibility
+     * [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) - LIS except for condition change to check for predecesser
+     * [Longest Bitonic Subsequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688) - LIS repeated twice, once forward and then backward and then sum both dp arrays and get max
 
      DP on MCM/ Partition
      * [Matrix Chain Multiplication](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344)
