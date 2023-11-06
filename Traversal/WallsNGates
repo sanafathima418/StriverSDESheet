@@ -1,0 +1,75 @@
+class Solution:
+    def wallsAndGates(self, rooms: List[List[int]]) -> None:
+        """
+        Do not return anything, modify rooms in-place instead.
+        """
+        # Solution 1 - BFS - start at one gate and traverse to all rooms from there - TLE
+        # TC - O(N!)
+        # SC - O(MN) + O(M)
+
+        # m = len(rooms) 
+        # n = len(rooms[0]) 
+        # q = []
+
+        # for i in range(m):
+        #     for j in range(n):
+        #         # 1. Find all gates
+        #         if rooms[i][j] == 0:
+        #             q.append((i,j,0))
+        #             visited = [[0 for i in range(n)] for j in range(m)]
+        # 
+        #             # 2. Go over the queue for every gate
+        #             # 2.1 Pop, mark as visited and update rooms with min value of rlen and curr value
+        #             while(q):
+        #                 ci, cj, rlen = q.pop(0)
+        #                 rooms[ci][cj] = min(rooms[ci][cj], rlen)
+        #                 visited[ci][cj] = 1
+        #                 if rooms[ci][cj] == -1:
+        #                     continue
+                            
+        #                 if ci+1 < m and visited[ci+1][cj] == 0:
+        #                     q.append((ci+1, cj, 1+rlen))
+        #                 if cj+1 < n and visited[ci][cj+1] == 0:
+        #                     q.append((ci, cj+1, 1+rlen))
+        #                 if ci-1 > -1 and visited[ci-1][cj] == 0:
+        #                     q.append((ci-1, cj, 1+rlen))
+        #                 if cj-1 > -1 and visited[ci][cj-1] == 0:
+        #                     q.append((ci, cj-1, 1+rlen))
+
+
+        # Solution 2 - BFS - start at ALL gates and traverse to all rooms from there
+        # TC - O(MN)
+        # SC - O(MN) + O(M)
+        m = len(rooms) 
+        n = len(rooms[0]) 
+        q = []
+
+        # Gather all exits
+        for i in range(m):
+            for j in range(n):
+                if rooms[i][j] == 0:
+                    q.append((i, j, 0))
+
+        # Approach
+        # 1. BFA Traversal
+        # 2. Start from all exits at once and update rooms when pushing, that way an exit that is closer updates its value
+        # 3. Restrict updation and appends to empty rooms only as rooms that were updated prior were already visited cause of a different exit
+        # 4. Unlike prev solution that updates rooms during pop, this updates rooms during push to adhere to 3
+        while(q):
+            ci, cj, rlen = q.pop(0)
+
+            if ci+1 < m and rooms[ci+1][cj] == 2147483647:
+                q.append((ci+1, cj, 1+rlen))
+                rooms[ci+1][cj] = 1+rlen
+
+            if cj+1 < n and rooms[ci][cj+1] == 2147483647:
+                q.append((ci, cj+1, 1+rlen))
+                rooms[ci][cj+1] = 1+rlen
+
+            if ci-1 > -1 and rooms[ci-1][cj] == 2147483647:
+                q.append((ci-1, cj, 1+rlen))
+                rooms[ci-1][cj] = 1+rlen
+
+            if cj-1 > -1 and rooms[ci][cj-1] == 2147483647:
+                q.append((ci, cj-1, 1+rlen))
+                rooms[ci][cj-1] =  1+rlen
