@@ -26,6 +26,7 @@ class Solution(object):
                     indegree[char] = 0
         
         # 2. Populate adj list with all edges and update indegree array
+        # Compare 2 words at a time
         for i in range(len(words)-1):
             # 2.1. Get min length to traverse over 2 words
             min_len = min(len(words[i]),len(words[i+1]))
@@ -36,6 +37,8 @@ class Solution(object):
                     indegree[words[i+1][j]] += 1
                     break
                 # 2.3 Special test case where x = abc and y = ab  
+                # When all chars of one string match with the other, the shorter string to be before else invalid test case
+                # Order not possible so return immediately
                 if j == min_len-1 and len(words[i]) > len(words[i+1]):
                     return ""
         
