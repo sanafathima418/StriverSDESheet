@@ -35,7 +35,7 @@
    * [Course Schedule 1](https://leetcode.com/problems/course-schedule/)
    * [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)
    * [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
-   * [Walls and Gates]()
+   * [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
 
 6. Trees (Binary Trees, BST):
    * [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
