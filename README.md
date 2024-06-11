@@ -12,7 +12,7 @@
    * [Subset Sums 1](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086)
    * [Subset Sums 2](https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236)
    * [Combination Sum 1](https://www.codingninjas.com/codestudio/problems/759331)
-   * [Combination Sum 2](https://www.codingninjas.com/codestudio/problems/1112622)
+   * [Combination Sum 2](https://www.codingninjas.com/codestudio/problems/1112622) - [Leetcode](https://leetcode.com/problems/combination-sum-ii/description/)
    * [Palindrome Partitioning](https://www.codingninjas.com/codestudio/problems/799931)
    * [Kth Permutation Sequence](https://www.codingninjas.com/codestudio/problems/1112626)
    
